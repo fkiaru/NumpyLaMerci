@@ -2,5 +2,4 @@ dependencies:
   - IPython
   - numpy
   - matplotlib
-  - notebook-as-pdf==0.5.0
   
