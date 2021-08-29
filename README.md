@@ -4,7 +4,7 @@ Vous trouverez des cours, exercices résolus et exercices d'entrainement sur les
 
 - Outils graphiques (nuage de points, tracé de fonction, courbe paramétrée)
 
-- Outils statistiques(simulation de variables aléatoires, tracé d'histogramme, régression linéaire)
+- Outils statistiques (simulation de variables aléatoires, tracé d'histogramme, régression linéaire)
 
 - Estimation des incertitudes (type A = répétabilité, estimation de type B, composition)
 
